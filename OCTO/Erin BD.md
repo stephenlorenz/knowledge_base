@@ -1,0 +1,18 @@
+
+- [ ] Chocolate
+	- [ ] Enna - Night at the Movies
+	- [ ] Curio
+		- [ ] Hot Honey
+		- [ ] Almond Sea Salt
+		- [ ] Midnight
+- [ ] Books
+	- [ ] Arundhati Roy - Mother Mary Comes to Me
+	- [ ] Zadie Smith - dead and alive
+	- [ ] https://www.amazon.com/Chocolat-Christophe-Felder/dp/2830706625
+	- [ ] https://www.amazon.com/Petite-Patisserie-Christophe-Felder/dp/0847869156
+	- [ ] The Bitter Sweetness of Life (Une vie de chocolat), Christophe Felder
+- [ ] Chocolate Templering Machine: https://www.amazon.com/HTTSICHI-Chocolate-Tempering-Machine-Professional/dp/B0FT7M8GJJ or https://www.amazon.com/dp/B0DFYF218S
+- [ ] pasta measurer
+- [x] silicone brushes
+- [ ] J Crew dress
+- [ ] 

@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "3a2cf058ba1055dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5f2d7ca4a20e95c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Random Stuff/Mermaid.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b0217494bd05ff5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c657a79a7b3e903",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8022caedcc8e53c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "93cfe30fb07f533f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ec4417146eeeedd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "262952c84eb1e1ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33421fb79917090d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Random Stuff/Mermaid.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a5f2d7ca4a20e95c",
+  "lastOpenFiles": [
+    "Random Stuff/Mermaid.md",
+    "CMS/YouTrack Knowledge Base as CMS.md",
+    "CMS/Strapi.md",
+    "Developer Tools/Documentation_v4.md",
+    "Developer Tools/Documentation_v2.md",
+    "Developer Tools/Documentation.md",
+    "Database/Creating new RDS database.md",
+    "Migrating Angular Apps/App List.md",
+    "v2.1.0/Rally v2.1.0 - Deployment Notes - BlueGreen Deploy - Pre-Build.md",
+    "Untitled.md"
+  ]
+}

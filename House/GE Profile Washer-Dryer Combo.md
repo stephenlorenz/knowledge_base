@@ -1,0 +1,3 @@
+There are two problems with the washer. The washer will stop mid-cycle after spending several minutes trying to drain. In addition, when the washer drum spins it produces a very loud screeching/grating sound, like a bearing is failing. This sound is most notable during the spin cycle, but can be heard by manually turning the drum with your hand when the washer is not in use. At this point, the washer is unusable an unable to run a full cycle.
+
+~~We perform regular maintenance on the unit, cleaning the drain every few weeks and the lint filters, as well.~~

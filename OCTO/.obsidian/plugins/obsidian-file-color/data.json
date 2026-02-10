@@ -1,0 +1,43 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "DpYWQjFdynxL34o9M0U3q",
+      "name": "Blue 1",
+      "value": "#291aff"
+    },
+    {
+      "id": "4ssNSJRB5JpCdVTIZZDBd",
+      "name": "Pink 1",
+      "value": "#ff6161"
+    },
+    {
+      "id": "T5IgiR8iAddZy9wnaHzgS",
+      "name": "Highlight",
+      "value": "#f0f971"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Grand To Do List.md",
+      "color": "DpYWQjFdynxL34o9M0U3q"
+    },
+    {
+      "path": "Project Page Cards/IRB Protocol card.md",
+      "color": "4ssNSJRB5JpCdVTIZZDBd"
+    },
+    {
+      "path": "Scratch Pad.md",
+      "color": "T5IgiR8iAddZy9wnaHzgS"
+    },
+    {
+      "path": "France TODO.md",
+      "color": "4ssNSJRB5JpCdVTIZZDBd"
+    },
+    {
+      "path": "Siloed Rally.md",
+      "color": "T5IgiR8iAddZy9wnaHzgS"
+    }
+  ]
+}

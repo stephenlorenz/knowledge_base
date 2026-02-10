@@ -1,0 +1,5 @@
+- [x] When recruitment slider is changed to disable recruitment, ask the user the question, "Is recruitment complete?"  
+  - [x] If no, display "Recruitment was paused on [date] by [user]."  
+      - [x] **If** we are doing ad_end_date, we need to initialize this field as part of the v4.0.0.0 migration scripting.
+      - [x] due to our relationship with Insight, should we update the IRB status and expiration dates when the IRB updates in Insight?  **DECISION:** out-of-scope
+  - [x] Externalize in separate Angular component

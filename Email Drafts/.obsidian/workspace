@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "c1733ab704755c4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba09301903795d84",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CovidProtocols/Email Questions for Mike and Jeff.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83effa299c97f9a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cccce3c0e7c2b8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2df6e3d51dbc0396",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "09a31ed14e674601",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88fa749627fdc4f5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ad970ff220ea2e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f95d091ecd221da4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8708956801dfddfc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CovidProtocols/Email Questions for Mike and Jeff.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6505aaac3074dfb9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CovidProtocols/Email Questions for Mike and Jeff.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f29a15971084dd40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ba4531d3c6234c27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CovidProtocols/Email Questions for Mike and Jeff.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2df6e3d51dbc0396",
+  "lastOpenFiles": [
+    "Response to RCC regarding AWS Control Tower changes.md"
+  ]
+}

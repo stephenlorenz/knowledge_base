@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "0eb1de6750f74760",
+    "type": "split",
+    "children": [
+      {
+        "id": "2125b85e48df1d99",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Angular Quick Start.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20dfa0813badda94",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd5034217137cce2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19a8b92572acfba0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b4602ff6df707924",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c13194e5806b5f0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c47104280a27f49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b8c888aef79c529",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Angular Quick Start.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2125b85e48df1d99",
+  "lastOpenFiles": [
+    "Angular Quick Start.md",
+    "Untitled.md"
+  ]
+}

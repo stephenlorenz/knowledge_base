@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"e4f9a96f11fd3f44","x":-380,"y":-400,"width":250,"height":220,"color":"2","type":"text","text":"### What is this??\nThis new tool looks awesome!"},
+		{"id":"a18ecc5034bc0ee4","x":-60,"y":-400,"width":400,"height":600,"color":"3","type":"file","file":"GitHub Notes.md"}
+	],
+	"edges":[
+		{"id":"0df077cad1f7fbb4","fromNode":"e4f9a96f11fd3f44","fromSide":"right","toNode":"a18ecc5034bc0ee4","toSide":"left"}
+	]
+}

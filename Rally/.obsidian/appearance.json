@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 16,
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "rally"
+  ],
+  "accentColor": "#2645c0",
+  "cssTheme": "",
+  "translucency": true
+}

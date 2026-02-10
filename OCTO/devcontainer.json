@@ -1,0 +1,42 @@
+{
+  "name": "sprout2pt0",
+  "dockerComposeFile": [
+    "docker-compose.dev.yml"
+  ],
+  "service": "dev",
+  "workspaceFolder": "/workspace",
+  "shutdownAction": "none",
+  "forwardPorts": [8084, 4300],
+  "portsAttributes": {
+    "8084": { "label": "Sprout Backend (Spring Boot) Web Server" },
+    "4300": { "label": "Sprout Frontend (Angular) Dev Server" }
+  },
+  "postCreateCommandSkip": "mvn -q -DskipTests package || true",
+  "remoteUser": "vscode",
+  "customizations": {
+    "jetbrains": {
+      "settings": {
+        "com.intellij.database:app:DatabaseSettings.warn-unsafe-query": false,
+        "com.intellij:app:EditorSettings.soft_wrap_file_masks": "*.md; *.txt; *.rst; *.adoc",
+        "com.intellij:app:EditorSettings.is_ensure_newline_at_eof": true,
+        "Git4Idea:app:Git-Application-Settings.use_credential_helper": true,
+        "com.intellij:app:Vcs-Log-App-Settings.show_changes_from_parents": true,
+        "com.intellij:app:Vcs-Log-App-Settings.show_tag_names": true,
+        "com.intellij.database:app:SqlEditorOptions.aliasQualification": "not_qualify",
+        "com.intellij.database:app:SqlEditorOptions.databaseQualification": "not_qualify",
+        "com.intellij.database:app:SqlEditorOptions.schemaQualification": "not_qualify",
+        "com.intellij.database:app:SqlEditorOptions.tableQualification": "not_qualify"
+      }
+    },
+    "vscode": {
+      "extensions": [
+        "redhat.java",
+        "vscjava.vscode-java-debug",
+        "vscjava.vscode-java-test",
+        "vscjava.vscode-maven",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint"
+      ]
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "87e81f464ea00926",
+    "type": "split",
+    "children": [
+      {
+        "id": "195b49e303628e5b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Security & Permissions.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8550b825a967e1b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc914c9495a97159",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d905ee91b28fb13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c24d5b550271fec5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb543870ccf0f4be",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6e8e66891e9a81c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c853016e931ebcf0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Security & Permissions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "195b49e303628e5b",
+  "lastOpenFiles": [
+    "Security & Permissions.md",
+    "Backup & Restore.md",
+    "Dump and Restore all databases from one server to another.md",
+    "Tips.md"
+  ]
+}

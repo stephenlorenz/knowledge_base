@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "ad60945dac263f0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "83e05b0d0f299423",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ab03ec667338823",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RA Helpdesk Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RA Helpdesk Tasks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84ba5f03130cb79c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ceeeac1547bb87a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1891f94dba6091aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5eb75ce0927cb1e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d2cfd0c7ba016107",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f6c30e796b2a4268",
+    "type": "split",
+    "children": [
+      {
+        "id": "75b0127828e1db77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4939e363ed6e7b25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project Page Cards/Study Team Access card.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Study Team Access card"
+            }
+          },
+          {
+            "id": "d025398027f98b91",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Project Page.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Project Page"
+            }
+          },
+          {
+            "id": "1ca8da15d4c95107",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "85c08679b2d3a0d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RA Helpdesk Tasks.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of RA Helpdesk Tasks"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false
+    }
+  },
+  "active": "6ab03ec667338823",
+  "lastOpenFiles": [
+    "Untitled 9.base",
+    "Untitled 8.base",
+    "Untitled 7.base",
+    "Rally DRP.md",
+    "Requests and Issues - 12-07-2025.md",
+    "Room TODO.md",
+    "Pan Blandito.md",
+    "Daily Notes/2026-01-05.md",
+    "To Do IRB Panel.md",
+    "Agentic Slash Command.md",
+    "Resume.md",
+    "Untitled 6.base",
+    "ResearchAlly Helpdesk Email Ingestion Notes.md",
+    "RA Helpdesk Tasks.md",
+    "Scratch Pad.md",
+    "Siloed Rally.md",
+    "Future Ideas (out-of-scope).md",
+    "David France TODO.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Implementation Plan -- Identity-Based Access Control.md",
+    "Untitled 5.base",
+    "Untitled 4.base",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Daily Notes/2025-12-19.md",
+    "Untitled 1.md",
+    "Christmas presents.md",
+    "High-Hydration Whole Wheat Sourdough Bread (Revised Schedule).md",
+    "Erin BD.md",
+    "Untitled 3.base",
+    "Marketing Contact Us Form & Tool.md",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "Untitled.base",
+    "devcontainer.json",
+    "Screenshot 2025-08-29 at 11.53.18.png",
+    "_images/Screenshot 2025-03-05 at 09.32.45.png",
+    "_images/Screenshot 2025-03-14 at 17.36.09.png",
+    "_images/Screenshot 2025-03-03 at 15.42.19.png",
+    "_images/Screenshot 2025-03-03 at 12.54.27.png",
+    "Study-IRB Migration v4.0.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "_images/Screenshot 2025-02-11 at 12.01.09.png",
+    "_images/Screenshot 2025-01-29 at 11.43.28.png",
+    "_images/Screenshot 2025-01-30 at 10.20.46.png",
+    "_images/Screenshot 2025-01-31 at 18.02.37.png",
+    "_images/Screenshot 2025-02-06 at 16.56.57.png"
+  ]
+}

@@ -1,0 +1,14 @@
+- [ ] Add status 
+- [ ] Add focused view (open)
+- [x] add delete functionality
+- [ ] Add comment log
+	- [ ] potentially integrate with info@researchally.org mailbox
+- [x] send emails
+	- [x] alert info@researchally.org when new form is submitted
+	- [x] send "receipt" to person who completed form
+- [ ] analytics
+	- [x] piwik?
+	- [ ] add campaign code to link behind QR code
+- [x] Make form public
+- [x] get total (for pagination)
+- [ ] create AWS IAM permissions to allow Mark, Priya, and the ResearchAlly web application to be able to read and update DynamoDB.

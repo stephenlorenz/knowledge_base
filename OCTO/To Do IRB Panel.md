@@ -1,0 +1,3 @@
+- Submit for verification should not being allowed if allRequiredDocumentsComplete() is not complete
+	- however, it is being submitted
+- document recalculation does not seem to happen until "submit for verification", particularly with CEDE Review document

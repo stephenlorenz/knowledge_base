@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "87e81f464ea00926",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2555186c769c015",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "195b49e303628e5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security & Permissions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Security & Permissions"
+            }
+          },
+          {
+            "id": "9ed942defac176eb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.2.7"
+            }
+          },
+          {
+            "id": "1da3dbf1edf7aae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tips.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tips"
+            }
+          },
+          {
+            "id": "8405d2173e7e9583",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.4.13"
+            }
+          },
+          {
+            "id": "7407f189ce970166",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.4.14"
+            }
+          },
+          {
+            "id": "f982098477a5a7b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security & Permissions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Security & Permissions"
+            }
+          },
+          {
+            "id": "744de87789bc8f90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security & Permissions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Security & Permissions"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8550b825a967e1b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc914c9495a97159",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d905ee91b28fb13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c24d5b550271fec5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "019ac3152727c862",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb543870ccf0f4be",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6e8e66891e9a81c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c853016e931ebcf0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Security & Permissions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Security & Permissions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "744de87789bc8f90",
+  "lastOpenFiles": [
+    "Tips.md",
+    "Security & Permissions.md",
+    "Dump and Restore all databases from one server to another.md",
+    "Backup & Restore.md"
+  ]
+}

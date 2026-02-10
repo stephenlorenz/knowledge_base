@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "7fc3ef788e66c73d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e640392cd82eff8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BEI Mobile/Monthly Maintenance.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6814cce45b132db3",
+    "type": "split",
+    "children": [
+      {
+        "id": "53bd3fc452f59ac4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d136b0d897fe872",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e67b3d7f2b594cc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8691b032f3830d55",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d35ace1b2a4d767",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e01edf8656f3bf4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BEI Mobile/Monthly Maintenance.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4e640392cd82eff8",
+  "lastOpenFiles": [
+    "BEI Mobile/Monthly Maintenance.md",
+    "Brigopedia/Brigopedia 2.0 - Notes.md",
+    "BEI Mobile/BEI Mobile - Notes.md",
+    "BEI Mobile/To Do.md",
+    "KnowHow/Initialization Notes.md"
+  ]
+}

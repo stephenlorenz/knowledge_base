@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "7fc3ef788e66c73d",
+    "type": "split",
+    "children": [
+      {
+        "id": "df86b11bcd432ba8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e640392cd82eff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BEI Mobile/Monthly Maintenance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monthly Maintenance"
+            }
+          },
+          {
+            "id": "6134e204b854424e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BEI Mobile/Monthly Maintenance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monthly Maintenance"
+            }
+          },
+          {
+            "id": "72f2a5055af81d8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BEI Mobile/Monthly Maintenance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monthly Maintenance"
+            }
+          },
+          {
+            "id": "6b2255ac418757dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BEI Mobile/Monthly Maintenance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monthly Maintenance"
+            }
+          },
+          {
+            "id": "51f27e620ac162db",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.4.13"
+            }
+          },
+          {
+            "id": "03057552df0132ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BEI Mobile/Monthly Maintenance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monthly Maintenance"
+            }
+          },
+          {
+            "id": "00d9cec93dc401fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BEI Mobile/Monthly Maintenance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monthly Maintenance"
+            }
+          },
+          {
+            "id": "a92a468942bc75e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BEI Mobile/Monthly Maintenance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monthly Maintenance"
+            }
+          },
+          {
+            "id": "c93f7a895105847d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6814cce45b132db3",
+    "type": "split",
+    "children": [
+      {
+        "id": "53bd3fc452f59ac4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d136b0d897fe872",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e67b3d7f2b594cc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e2706b47b5505de0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8691b032f3830d55",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d35ace1b2a4d767",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e01edf8656f3bf4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "c93f7a895105847d",
+  "lastOpenFiles": [
+    "BEI Mobile/BEI Mobile - Notes.md",
+    "BEI Mobile/Monthly Maintenance.md",
+    "Brigopedia/Brigopedia 2.0 - Notes.md",
+    "BEI Mobile/To Do.md",
+    "KnowHow/Initialization Notes.md"
+  ]
+}

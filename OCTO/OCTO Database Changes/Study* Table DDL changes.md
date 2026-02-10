@@ -1,0 +1,189 @@
+
+- [ ] study  
+- [x] study_access (keep unchanged) 
+- [x] study_advertiser  
+- [x] study_auth   (keep unchanged) 
+- [x] study_avatar  (drop-not used)
+- [ ] study_builder  
+- [ ] study_builder_document  
+- [x] study_color_picker  (keep unchanged)  
+- [x] study_compensation  (drop-migrated)
+- [x] study_contact  (drop-migrated)
+- [x] study_contact_verified_email_audit_log   (keep unchanged)
+- [x] study_design   (drop-not used)
+- [x] study_ethnicity   (drop-not used)
+- [x] study_event    (keep unchanged)
+- [x] study_featured  (keep unchanged)
+- [x] study_featured_log  (keep unchanged)
+- [x] study_featured_run  (keep unchanged)
+- [x] study_featured_v2  (keep unchanged)
+- [x] study_funding  (drop-migrated)
+- [x] study_gender  (drop-migrated)
+- [x] study_image  (drop-not used)
+- [x] study_investigator_role (drop-not used)
+- [x] study_investigator_title (drop-not used)
+- [x] study_legacy  (keep unchanged)
+- [x] study_locale  (keep unchanged)
+- [x] study_location  (drop-migrated)
+- [x] study_location_geopoint (drop-not used)
+- [x] study_message (drop-not used)
+- [x] study_message_2 (drop-not used)
+- [x] study_organization  (drop-migrated)
+- [x] study_phase (drop-migrated)
+- [x] study_pi  (drop)
+- [x] study_poll_log (drop-not used)
+- [x] study_post_audit (drop-not used)
+- [x] study_pub (keep in case it is being used in some sql)
+- [x] study_race (drop-not used)  
+- [x] study_source_type_feature  (keep unchanged)
+- [x] study_tag (drop-not used)
+- [x] study_task (drop-migrated)
+- [x] study_team_member (drop-not used)
+- [x] study_team_member_location (drop-not used)
+- [x] study_topic  (drop-migrated)
+- [x] study_topic_legacy  (drop-not used)
+- [x] study_travel (drop-migrated)
+- [x] study_type  (drop-not used)
+- [x] study_visibility  (drop-not used)
+
+
+
+
+## Study table columns
+
+- [ ] id  
+- [ ] age_max  
+- [ ] age_min  
+- [ ] copy  
+- [ ] deleted_ind  
+- [ ] healthy_volunteers_ind  
+- [ ] hero_ind  
+- [ ] investigator_email  
+- [ ] investigator_first_name  
+- [ ] investigator_last_name  
+- [ ] investigator_middle_name  
+- [ ] investigator_phone  
+- [ ] irb_approval_expiration_date  
+- [ ] irb_approved  
+- [ ] irb_protocol_number  
+- [ ] location_text  
+- [ ] overview_about  
+- [ ] overview_context  
+- [ ] overview_goals  
+- [ ] overview_participant_population  
+- [ ] overview_significance  
+- [ ] pre_qualified_goal  
+- [ ] published_ind  
+- [ ] score  
+- [ ] share_email  
+- [ ] status  
+- [ ] study_compensation_text  
+- [ ] study_key  
+- [ ] study_organization_code  
+- [ ] study_organization_text  
+- [ ] study_tasks_text  
+- [ ] study_website_url  
+- [ ] summary  
+- [ ] team_name  
+- [ ] time_commitment_text  
+- [ ] time_commitment_unit_one  
+- [ ] time_commitment_unit_two  
+- [ ] time_commitment_value_one  
+- [ ] time_commitment_value_two  
+- [ ] title  
+- [ ] title_test_2  
+- [ ] title_approved  
+- [ ] investigator_department_id  
+- [ ] investigator_organization_id  
+- [ ] external_url  
+- [ ] image_key  
+- [ ] title_test  
+- [ ] languages  
+- [ ] title_test2  
+- [ ] mapper  
+- [ ] expiration_date  
+- [ ] irb_organization_id  
+- [ ] image_rights  
+- [ ] clinical_trials_dot_gov_id  
+- [ ] investigator_image_key  
+- [ ] investigator_profile_url  
+- [ ] age_max_unit  
+- [ ] age_min_unit  
+- [ ] healthy_volunteers_text  
+- [ ] contact_name_primary  
+- [ ] contact_name_secondary  
+- [ ] email  
+- [ ] phone  
+- [ ] investigator_credentials  
+- [ ] investigator_department_text  
+- [ ] study_compensation_amount  
+- [ ] live_date  
+- [ ] validation_status  
+- [ ] modification_status  
+- [ ] irb_approved_date  
+- [ ] recruit_status  
+- [ ] oncall_trial_id  
+- [ ] overview_exclusion_population  
+- [ ] import_ind  
+- [ ] short_url  
+- [ ] test_ind  
+- [ ] initial_public_date  
+- [ ] promoted_ind  
+- [ ] promoted_class  
+- [ ] enrollment_goal_count  
+- [ ] study_travel_details  
+- [ ] created_date  
+- [ ] activity_date  
+- [ ] under_age_consent_required  
+- [ ] study_source  
+- [ ] source_type  
+- [ ] brand_id  
+- [ ] irb_approving_organization  
+- [ ] irb_site_pi_organization  
+- [ ] ad_start_date  
+- [ ] ad_end_date  
+- [ ] ad_date_migration_token  
+- [ ] contract_id
+
+
+
+
+## Rally main directories
+
+- [x] annotation  
+- [ ] api
+- [x] audit  
+- [ ] controller  
+	- [ ] account  
+	- [ ] advice  
+	- [ ] api  
+	- [ ] auth  
+	- [ ] covid19  
+	- [ ] home  
+	- [ ] lookup  
+	- [ ] posting  
+	- [ ] security  
+	- [ ] study  
+	- [ ] util
+- [ ] data  
+- [x] devtools  
+- [x] domain  
+- [ ] enumeration  
+	- [ ] src/main/java/edu/harvard/mgh/lcs/rally/enumeration/SimpleStudyFields.java
+- [x] exception  
+- [x] filter  
+- [x] handlebars  
+- [x] hazelcast  
+- [x] http  
+- [x] interceptor  
+- [x] jms  
+- [x] job  
+- [x] model  
+- [x] responseStatus  
+- [x] security  
+- [ ] service  
+- [ ] serviceInterface  
+- [x] session  
+- [x] to  
+- [x] util  
+- [x] webSockets

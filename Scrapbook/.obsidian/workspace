@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "c6d348f26c31bc21",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a2986008b328f07",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tuscan Pizza Dough.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f23cc28c06e95d07",
+    "type": "split",
+    "children": [
+      {
+        "id": "c21cef56b6b6644b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e6c0d61c43fd7dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "807b23f7e8911419",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62d5b9b469765705",
+    "type": "split",
+    "children": [
+      {
+        "id": "46dd1c46db8674f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99e86dacd4f866f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tuscan Pizza Dough.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2a2986008b328f07",
+  "lastOpenFiles": [
+    "Tuscan Pizza Dough.md",
+    "Allways Transcript.md",
+    "Mac Safe Mode Chat.md",
+    "Concepts.md"
+  ]
+}

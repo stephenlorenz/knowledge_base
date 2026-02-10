@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "18cc79844d257892",
+    "type": "split",
+    "children": [
+      {
+        "id": "540b78aeb3502fd1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Creating a Docker Image from a Container (like a snapshot).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3a3e19bb84f4e67",
+    "type": "split",
+    "children": [
+      {
+        "id": "05fa0b70e138ed52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74ed0c03619837ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3241a6c7bc2fc635",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39b7983115ce29bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "03d837ca58797863",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73f8d8a9c0ae72c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Creating a Docker Image from a Container (like a snapshot).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 410,
+    "collapsed": true
+  },
+  "active": "540b78aeb3502fd1",
+  "lastOpenFiles": [
+    "Creating a Docker Image from a Container (like a snapshot).md",
+    "Podman Rebuilding Postgres.md",
+    "General Notes.md"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "0ffcb278ba6361b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccdb75616676d546",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Projects.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76047dd9c95ec0e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6434aff76234586",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8788276f480ad10c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a43e4a62b124f252",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b793759c2a95a88c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8de053703adcb571",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47884f62149727b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ccdb75616676d546",
+  "lastOpenFiles": [
+    "Projects.md"
+  ]
+}

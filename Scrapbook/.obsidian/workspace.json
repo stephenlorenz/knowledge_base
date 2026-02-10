@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "c6d348f26c31bc21",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f9dc94d0c989388",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a2986008b328f07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tuscan Pizza Dough.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tuscan Pizza Dough"
+            }
+          },
+          {
+            "id": "4e51d774fc1b0f14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tuscan Pizza Dough.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tuscan Pizza Dough"
+            }
+          },
+          {
+            "id": "61e419e96ef4a754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rally Issue 1951.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rally Issue 1951"
+            }
+          },
+          {
+            "id": "074998bc92f6ebb8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.6.3"
+            }
+          },
+          {
+            "id": "0867938c0b48c521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tuscan Pizza Dough.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tuscan Pizza Dough"
+            }
+          },
+          {
+            "id": "9612cc0054a841ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FileVault Recovery Key.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FileVault Recovery Key"
+            }
+          },
+          {
+            "id": "643c002d62edb94a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
+            "id": "042e9960ac7a1c17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generic Appology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Generic Appology"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f23cc28c06e95d07",
+    "type": "split",
+    "children": [
+      {
+        "id": "c21cef56b6b6644b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e6c0d61c43fd7dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "807b23f7e8911419",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bf1eeadb5b31f0e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62d5b9b469765705",
+    "type": "split",
+    "children": [
+      {
+        "id": "46dd1c46db8674f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99e86dacd4f866f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "042e9960ac7a1c17",
+  "lastOpenFiles": [
+    "Generic Appology.md",
+    "Tuscan Pizza Dough.md",
+    "FileVault Recovery Key.md",
+    "Rally Issue 1951.md",
+    "Mac Safe Mode Chat.md",
+    "Allways Transcript.md",
+    "Concepts.md"
+  ]
+}
