@@ -1,0 +1,6 @@
+- [ ] sunflower seeds
+- [ ] pumpkins seeds
+- [ ] raisins (2)
+- [ ] cinnamon (?)
+- [ ] blueberries (2)
+- [ ] 

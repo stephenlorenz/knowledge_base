@@ -1,0 +1,7 @@
+- [ ] [[Researcher Permissions]]
+- [ ] [[Researcher Authorization Request Queue]]
+- [ ] [[IRB Protocol Verification Tool]]
+- [ ] [[Site SSL Certificate Management Tool]]
+- [ ] *NEW* add Study Admin tool for Contract Admins
+- [ ] Add Contract settings tool
+	- [ ] Add ability to disable "AD Letter" as IRB Protocol requirement

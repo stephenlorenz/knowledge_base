@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "00bd758632ce0596",
+    "type": "split",
+    "children": [
+      {
+        "id": "b536aa4a3ec1cf54",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DSC2U Feedback - 2021-09-08.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e071f5f2557fd0e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5f2a861a22de85f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4be30528e79dd434",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e6730d09d5d59653",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d408efad4b89f81f",
+    "type": "split",
+    "children": [
+      {
+        "id": "39e9c1834a49b8de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1ed52bf64b3478e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DSC2U Feedback - 2021-09-08.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b536aa4a3ec1cf54",
+  "lastOpenFiles": [
+    "DSC2U Feedback - 2021-09-08.md",
+    "Untitled.md"
+  ]
+}
